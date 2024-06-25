@@ -6,7 +6,7 @@
 I'm graduated in Financial Management and currently a Software Engineering student. I'm looking for my first opportunity as a programmer. I'm always taking courses to specialize through Coursera or freeCodeCamp
 
 ## 🌐 Socials:
-[![Site](https://img.shields.io/website?label=malheiros.dev&style=for-the-badge&url=https://malheiros.dev/)](https://malheiros.dev/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[![Site](https://img.shields.io/website?label=malheiros.dev&style=for-the-badge&url=https://www.malheiros.tech/)](https://www.malheiros.tech/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://instagram.com/marcos_malheiiros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/in/marcosmalheiros) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dashboard)
 
