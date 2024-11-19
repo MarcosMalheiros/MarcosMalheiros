@@ -18,10 +18,6 @@ I'm graduated in Financial Management and currently a Software Engineering stude
   <img src="https://github-readme-stats.vercel.app/api?username=MarcosMalheiros&theme=calm&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosMalheiros&theme=calm&hide_border=false" alt="GitHub Streak" />
 </p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
 
 </center>
 
